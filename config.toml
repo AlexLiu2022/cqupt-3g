@@ -1,4 +1,4 @@
-baseurl = "https://3g.liu.xyz.com"
+baseurl = "https://3g.liu.xyz"
 title = "Software Engineering College of CQUPT"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
