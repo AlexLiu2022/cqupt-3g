@@ -13,6 +13,7 @@ Software Engineering approved as first-class major in Chongqing.
 ## 2018
 
   1-Approved as a research and development platform for network security perception and big data analysis.
+
   2-Carry out the construction of a new type of college with "one place and two highlands".
 
 ## 2017
@@ -22,6 +23,7 @@ Software Engineering approved as first-class major in Chongqing.
 ## 2016
 
   1-Project approval supported by central financial funds (software engineering teaching experimental platform for "Internet + engineering education").
+
   2-Pass the acceptance of Chongqing characteristic specialty.
 
 ## 2015
@@ -44,7 +46,7 @@ Software Engineering approved as first-class major in Chongqing.
 
 ## 2012 
 
- he first enrollment of full-time master degree students in software engineering was 4
+ The first enrollment of full-time master degree students in software engineering was 4
        establish Microsoft IT college
        the first batch of national engineering practice education center construction units
 

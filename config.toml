@@ -1,5 +1,5 @@
 baseurl = "https://3g.liu.xyz"
-title = "Software Engineering College of CQUPT"
+title = "Software Engineering School of CQUPT"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -71,7 +71,7 @@ home = ["HTML", "RSS"]
 
   [params.social]
   rss            = true 
-  email          = "youremail@gmail.com"
+  email          = "gjc@cqupt.edu.cn"
   #facebook      = "full profile url in facebook"
   #googleplus    = "full profile url in googleplus"
   #twitter       = "full profile url in twitter"
