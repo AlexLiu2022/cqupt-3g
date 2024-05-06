@@ -1,5 +1,5 @@
 baseurl = "https://3g.liu.xyz.com"
-title = "CQUPT 3G"
+title = "Software Engineering College of CQUPT"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -7,21 +7,21 @@ disqusShortname = ""
 googleAnalytics = ""
 preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
-hasCJKLanguage = true
+hasCJKLanguage = false
 
 [outputs]
-home = ["HTML", "RSS", "Algolia"]
+home = ["HTML", "RSS"]
 
 [params]
-  header_image = "img/tag-bg.jpg"
+  header_image = "img/post-bg-unix-linux.jpg"
   SEOTitle = "CQUPT 3G"
   description = "CQUPT 3G"
   keyword = "CQUPT,3G"
-  slogan = "3G,核心科技"
+  slogan = "3G, Core Technology"
   upstreamAttribution = true
 
   image_404 = "img/404-bg.jpg"
-  title_404 = "你来到了没有知识的荒原 :("
+  title_404 = "No 3G here, retry using 6G"
   omit_categories = false
 
   # leancloud storage for page view counter
@@ -36,9 +36,9 @@ home = ["HTML", "RSS", "Algolia"]
   algolia_apiKey = ""
 
   # Sidebar settings
-  sidebar_about_description = "3G 核心科技，4G 核心科技，5G 核心科技，6G 核心科技 CQUPT，GGGGGGGGGG"
+  sidebar_about_description = "At 2:30 PM on October 9, 2005, Chongqing Municipal People's Government Information Office held a press conference at Chongqing Press Conference Center. The meeting solemnly released the 「world's first 0.13 micron process TD-SCDMA 3G mobile phone core chip was born in Chongqing」, which makes people proud and proud of the major good news. Chen Hong, deputy director of Chongqing Municipal Government Information Office, Peng Zhiyong, deputy secretary of the Municipal Education Working Committee and Deputy director of the Municipal Education Commission, and Nie Neng, dean of the University of Posts and Telecommunications, attended the press conference. Representatives of LSI Corporation, SYNOPSYS Corporation and SMIC Manufacturing Corporation were invited to attend the meeting. More than 30 news media, including Xinhua News Agency, People's Daily, Guangming Daily, Science and Technology Daily, Economic Daily, China Education Daily, Chongqing Daily, China National Radio, Chongqing TV, Ta Kung Pao, Hong Kong Wen Wei Po, etc., carried out interviews and reports."
 
-  sidebar_avatar = "img/3g.jpeg"      # use absolute URL, seeing it's used in both `/` and `/about/`
+  sidebar_avatar = "img/se.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
   featured_tags = false
   featured_condition_size = 1 

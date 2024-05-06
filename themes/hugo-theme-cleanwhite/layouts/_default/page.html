@@ -24,6 +24,13 @@
                 <div class="en post-container">
                     {{ .Content }}
                 </div>
+                <style>
+ h1{
+  border: 5px;
+  border-color: black;
+ }
+</style>
+
             {{ else }}
                 {{ .Content }}
             {{ end }}
@@ -36,6 +43,7 @@
         </div>
     </div>
 </article>
+
 
 {{ end }}
 
